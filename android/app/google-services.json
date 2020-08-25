@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442460461356",
+    "firebase_url": "https://flashchat-e5989.firebaseio.com",
+    "project_id": "flashchat-e5989",
+    "storage_bucket": "flashchat-e5989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442460461356:android:ed7dca0512d7fd0e7bf489",
+        "android_client_info": {
+          "package_name": "liquid.com.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442460461356-1q4pnsj16930df9clqrc50ijarvc6lrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "liquid.com.flashchat",
+            "certificate_hash": "873b33a9ccb882df4323799c5fc9bbabd87c97db"
+          }
+        },
+        {
+          "client_id": "442460461356-0d6ilabtigid1bferrtr4hefk9ojlqi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3Eh1AOmD8BPr247RKInSTGBzLIdhD_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442460461356-0d6ilabtigid1bferrtr4hefk9ojlqi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
